@@ -1,2 +1,2 @@
-# backend-crud-productos-angular
-BackEnd en Angulas de CRUD de productos
+# backend-crud-productos-express.js
+BackEnd en Express.js de CRUD de productos
